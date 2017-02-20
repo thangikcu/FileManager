@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="AppTheme" parent="Widget.AppCompat.Light.ActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:selectable">true</item>
+    </style>
+    <style name="listItemBackground">
+        <item name="android:background">?android:attr/activatedBackgroundIndicator</item>
+    </style>
+</resources>
